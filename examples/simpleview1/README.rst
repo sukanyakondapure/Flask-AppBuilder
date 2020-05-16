@@ -1,4 +1,4 @@
-Simple base View exaple
+Simple base View example
 -----------------------
 
 Simple contacts application.
